@@ -1,9 +1,13 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="IpnbRunAllCellsAction" />
   <action id="MethodOverloadSwitchDown" />
+  <action id="MinimizeCurrentWindow" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
